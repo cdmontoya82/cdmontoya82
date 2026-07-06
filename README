@@ -10,12 +10,12 @@
 ---
 
 ### 🛠 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Prophet](https://img.shields.io/badge/Prophet-FF6F00?style=flat)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Apache Parquet](https://img.shields.io/badge/Parquet-50ABF1?style=flat)
-![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Prophet](https://img.shields.io/badge/Prophet-FF6F00?style=flat-square&logo=meta&logoColor=white)
+![Apache Parquet](https://img.shields.io/badge/Parquet-50ABF1?style=flat-square&logo=apache&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square&logo=huggingface&logoColor=white)
 
 ---
 
@@ -23,6 +23,6 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| [🔬 LLM Pricing Intelligence](https://github.com/cdmontoya82/LLM-Powered-Pricing-Intelligence-Framework) | Forecasting + LLM agent → pricing recommendations | Prophet · Claude API · Gradio |
-| [📦 Logistics Forecasting](https://github.com/cdmontoya82/Logistics-Distance-Forecasting-Prophet) | 97% accuracy on transport distance prediction | Prophet · Python · IQR |
-| [💰 Financial Risk Engine](https://github.com/cdmontoya82/Enterprise-Financial-Risk-Engine) | 10,000 Monte Carlo scenarios for corporate liquidity | Python · Parquet · NumPy |
+| [🔬 LLM Pricing Intelligence](https://github.com/cdmontoya82/LLM-Powered-Pricing-Intelligence-Framework) | Next-gen forecasting + LLM agent architecture for dynamic pricing recommendations. | Prophet · Claude API · Gradio |
+| [📦 Logistics Forecasting](https://github.com/cdmontoya82/Logistics-Distance-Forecasting-Prophet) | Predicts transport distances with 97% accuracy using an outlier-resilient (IQR) pipeline. | Prophet · Python · IQR |
+| [💰 Financial Risk Engine](https://github.com/cdmontoya82/Enterprise-Financial-Risk-Engine) | Simulates 10,000 liquidity scenarios to stress-test corporate health via high-throughput data. | Python · Parquet · NumPy |
