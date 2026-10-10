@@ -1,5 +1,5 @@
 # Hi, I'm Cristian 👋 
-### Senior Data Scientist | Quantitative Pricing & Forecasting
+### Senior ML Engineer · Machine Learning in Production · MLOps · AI Agents · Python
 
 🔭 Currently building: [LLM-Powered Pricing Intelligence Framework](https://github.com/cdmontoya82/LLM-Powered-Pricing-Intelligence-Framework)  
 🏢 Working at: Edinsa – Postobón (logistics forecasting, 97% accuracy)  
